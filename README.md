@@ -8,7 +8,7 @@ I am currently pursuing my master's degree majoring in computer science from New
 * 📈 Enrolled in Design & Analysis of Algorithms
 * 🐍 Skilled in Python
 * 👨‍💻 Learning Java & VR Application development
-* 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/fayed-gaya/), Email:gayafayed@gmail.com
+* 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/fayed-gaya/), Email: gayafayed@gmail.com
 
 <!---
 Fayed-Gaya/Fayed-Gaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
