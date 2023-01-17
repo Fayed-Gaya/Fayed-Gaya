@@ -1,5 +1,5 @@
 # Hi there, I am Fayed!
-
+![Software-engineer-working](https://github.com/Fayed-Gaya/Fayed-Gaya/blob/main/GHReadmePic.png?raw=true)
 # About me 🏝️
 I am currently pursuing my master's degree majoring in computer science from New York University. I am a technology enthusiast & passionate about solving problems with programming. I am always open to collaborating on projects and creative/innovative ideas. I enjoy programming, travelling, and learning new things.
 
